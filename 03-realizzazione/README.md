@@ -1,11 +1,10 @@
 # Realizzazione
 
-La fase di realizzazione prevede:
-- Rispetto dei tempi di esecuzione del compito
-- Autonomia progettuale e realizzativa
-- Documentazione del processo di realizzazione (commenti alle commit)
-- Svolgere le attività concordate nelle ore dedicate
+## Criteri di valutazione
 
-Inserisci in questa cartella la soluzione completa contenente i file sorgente e/o gli altri prodotti digitali richiesti dalla traccia.
+Il processo di realizzazione del progetto verrà valutato assegnando un punteggio da 0 (non svolto) a 4 (svolto in modo completo e corretto) per ognuna delle attività seguenti:
 
-Puoi usare questo file per documentarlo.
+- (Z) Realizzare e consegnare nel rispetto delle scadenze concordate, i documenti e i prodotti richiesti
+- (A) Trovare e documentare errori nella progettazione e nella realizzazione utilizzando lo strumento di apertura e risoluzione delle "issues"
+- (Z) Utilizzare lo strumento delle "commit" per archiviare il lavoro svolto nelle ore dedicatea lle attività
+- (Z) Utilizzare lo strumento dei commenti alle "commit" per documentare il processo di realizzazione
