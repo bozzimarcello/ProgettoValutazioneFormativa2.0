@@ -1,5 +1,7 @@
 # Realizzazione
 
+Non inserire nulla in questa cartella, il progetto va inserito nella cartella 02-progetto mentre il materiale da te prodotto va inserito nella cartella 04-prodotto.
+
 ## Criteri di valutazione
 
 Il processo di realizzazione del progetto verrà valutato assegnando un punteggio da 0 (non svolto) a 4 (svolto in modo completo e corretto) per ognuna delle attività seguenti:
